@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/cinqict/slacksmurf/cmatrix"
+	"github.com/cinqict/slacksmurf/pkg/cmatrix"
 	"github.com/davecgh/go-spew/spew"
 	"github.com/nlopes/slack"
 )
